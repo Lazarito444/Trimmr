@@ -1,0 +1,6 @@
+@Trimmr.Api_HostAddress = http://localhost:5020
+
+GET {{Trimmr.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
